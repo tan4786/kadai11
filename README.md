@@ -1,2 +1,0 @@
-# kadai11
-Kadai 
